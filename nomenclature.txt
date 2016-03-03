@@ -1,0 +1,13 @@
+No. ARTICLE	Description	Manufacturer	Manufacturer Part No	QTY
+1	Aluminium enclosure	HAMMOND	1455N1201	1
+2	Screw  M2x16			4
+3	Washer  M2			4
+4	Nut M2			4
+5	Membrane switch	Schurter	12411104796	3
+6	Banana Socket 2mm panel Black	Multicomp	24.102.2	1
+7	Banana Socket 2mm panel Red	Multicomp	24.102.1	1
+8	Switch On/Off	Multicomp	MC3813-011-021	1
+9	DC CONNECTOR 2.1mm	Schurter	4840.220000	1
+10	spacer (Flexible tubind ID 1.6mm OD 3.2 mm)			4
+11				1
+12				1

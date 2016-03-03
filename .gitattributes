@@ -1,0 +1,16 @@
+*.SLDPRT binary
+*.SLDASM binary
+*.SLDDRW binary
+*.DXF binary
+*.IGS binary
+*.STP binary
+*.STEP binary
+*.PDF binary
+*.sldprt binary
+*.sldasm binary
+*.slddrw binary
+*.dxf binary
+*.igs binary
+*.std binary
+*.step binary
+*.pdf binary

@@ -1,0 +1,12 @@
+~*
+*~
+tmp/
+tmp2/
+*.rpt
+*.igs
+*.stp
+*.step
+*.RPS
+*.IGS
+*.STP
+*.STEP
